@@ -1,5 +1,5 @@
 # Projetos-JAVA
-Esse repositório contém alguns projetos feitos em Java desenvolvidos no Eclipse IDE.
+Esse repositório contém alguns projetos feitos em Java, desenvolvidos no Eclipse IDE.
 
 Os projetos são distintos, demonstram o aprendizado em Java no primeiro Semestre do curso Técnico em desenvolvimento de sistema no Senai
 <p align="center">
